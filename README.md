@@ -1,2 +1,2 @@
 # digital-clock
-Membuat Jam Digital Menggunakan HTML, CSS, dan JS
+Simple Digital Clock Using HTML, CSS, and Javascript 
